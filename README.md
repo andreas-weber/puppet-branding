@@ -11,7 +11,11 @@ None.
 mod 'aw_branding', :git => 'https://github.com/andreas-weber/puppet-branding.git'
 ```
 
-## Example
+## Usage
+
+See puppet manifests.
+
+## What it could look like
 
 ```
 Linux packer-debian-7 3.2.0-4-amd64 #1 SMP Debian 3.2.54-2 x86_64
