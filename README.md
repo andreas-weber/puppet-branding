@@ -5,7 +5,7 @@ This module manages the machines branding.
 
 None.
 
-## Usage in Puppetfile
+## Puppetfile
 
 ```
 mod 'aw_branding', :git => 'https://github.com/andreas-weber/puppet-branding.git'
