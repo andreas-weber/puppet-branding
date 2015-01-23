@@ -15,8 +15,8 @@
 #   include aw_branding
 #
 #   class { 'aw_branding':
-#     'template_motd'    => 'aw_branding/custom_motd.erb',
-#     'template_profile' => 'aw_branding/custom_profile.erb'
+#     template_motd    => 'aw_branding/custom_motd.erb',
+#     template_profile => 'aw_branding/custom_profile.erb'
 #   }
 #
 # === Authors
